@@ -13,3 +13,12 @@ public class Roww3Coloumn5 {
 
 
 }
+/*
+O/P:
+
+* * * *
+* * * *
+* * * *
+* * * *
+
+*/
